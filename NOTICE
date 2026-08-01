@@ -1,0 +1,11 @@
+Third-party software bundled in this project
+============================================
+
+marked v9.1.6 — MIT License
+https://github.com/markedjs/marked
+
+  Copyright (c) 2018+, MarkedJS (https://github.com/markedjs/)
+  Copyright (c) 2011-2018, Christopher Jeffrey (https://github.com/chjj/)
+
+The library is embedded in index.html so the app runs offline. Its full
+MIT permission notice is included alongside the code in that file.
